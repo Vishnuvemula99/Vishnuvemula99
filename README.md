@@ -29,22 +29,22 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Madhuvishnu Vemula
-role: Software Engineer @ Walmart | AI Engineer
-location: San Francisco, CA
-education: MS in Information Systems (Data Analytics) - Arizona State University - GPA 4.0/4.0
+Name: Madhuvishnu Vemula
+Role: Software Engineer @ Walmart | AI Engineer
+Location: San Francisco, CA
+Education: MS in Information Systems - WP Carey School of Business - Arizona State University - GPA 4.0/4.0
 
 currently:
-  building: Enterprise-scale Agentic RAG systems for test automation
+  building: Enterprise-scale Agentic RAG systems & Agentic Agents for test automation,
   impact: Onboarded 30+ teams, reduced script creation from 4-6 hours to 15-20 minutes
   pioneering: Figma-to-test-case generation with multi-modal LLMs
   exploring: Autonomous testing agents with DOM analysis and computer vision
 
 career_highlights:
   - "Built Agentic RAG app with vector DB partitioning - 85% accuracy boost"
-  - "Pioneered Figma to automation script pipeline, cutting turnaround by days"
+  - "Pioneered Figma to automation script pipeline, cutting turnaround by days."
   - "Engineered Interac e-Transfer backend serving millions of daily transactions"
-  - "Reduced fraudulent activity by 20% with ML-driven validation engines"
+  - "Reduced fraudulent activity by 20% with ML-driven validation engines."
 
 fun_fact: "I built a customer care system where 5 AI agents
            collaborate autonomously - it costs $0.001 per query."
