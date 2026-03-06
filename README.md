@@ -1,107 +1,120 @@
 <div align="center">
 
-# 🤖 Agentic Customer Care AI
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Madhuvishnu%20Vemula&fontSize=55&fontColor=58a6ff&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20AI%20Engineer%20%C2%B7%20San%20Francisco&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
-### _Where AI Agents Think, Collaborate, and Solve Customer Problems Autonomously_
-
-<br />
-
-<img src="https://img.shields.io/badge/LangGraph-Multi--Agent_System-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQyIDAtOC0zLjU4LTgtOHMzLjU4LTggOC04IDggMy41OCA4IDgtMy41OCA4LTggOHoiLz48L3N2Zz4=&logoColor=white" alt="LangGraph" />
-<img src="https://img.shields.io/badge/GPT--4o-Powered-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Python_3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-
-<br />
-<br />
-
-**5 AI Agents** · **3 Safety Guardrails** · **11 Autonomous Tools** · **1M+ Orders Tested**
-
-[Features](#-the-agents) · [Architecture](#-architecture) · [Quick Start](#-quick-start) · [Try It](#-try-it) · [Deploy Free](#-deploy-for-free)
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Building+Agentic+RAG+systems+at+enterprise+scale+%F0%9F%A7%A0;Multi-Agent+Orchestration+%E2%80%A2+LLMs+%E2%80%A2+Autonomous+Testing;Onboarded+30%2B+teams+%E2%80%A2+85%25+accuracy+boost+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 <br />
 
----
+<!-- SOCIAL BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhu)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vishnuvemula99)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhuvishnuvemula@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](#)
+
+<br />
+
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=Vishnuvemula99&style=for-the-badge&color=161b22&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
 <br />
 
-## 💡 What Is This?
+<!-- ABOUT ME -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anim/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="30" /> &nbsp;About Me
 
-Imagine a customer care system where **AI agents don't just answer questions — they think, reason, use tools, and collaborate** to solve problems. No scripts. No decision trees. Just autonomous agents that understand context and take action.
+```yaml
+name: Madhuvishnu Vemula
+role: Software Engineer @ Walmart | AI Engineer
+location: San Francisco, CA
+education: MS in Information Systems (Data Analytics) — Arizona State University — GPA 4.0/4.0
 
+currently:
+  building: Enterprise-scale Agentic RAG systems for test automation
+  impact: Onboarded 30+ teams, reduced script creation from 4-6 hours → 15-20 minutes
+  pioneering: Figma-to-test-case generation with multi-modal LLMs
+  exploring: Autonomous testing agents with DOM analysis & computer vision
+
+career_highlights:
+  - "Built Agentic RAG app with vector DB partitioning — 85% accuracy boost"
+  - "Pioneered Figma → automation script pipeline, cutting turnaround by days"
+  - "Engineered Interac e-Transfer backend serving millions of daily transactions"
+  - "Reduced fraudulent activity by 20% with ML-driven validation engines"
+
+fun_fact: "I built a customer care system where 5 AI agents
+           collaborate autonomously — it costs $0.001 per query."
 ```
-Customer: "I bought a Garmin watch last week but it's too big.
-           Can I return it? I have the box and everything."
-
-🧠 Router Agent    → Detects return intent (confidence: 0.96)
-📦 Returns Agent   → Looks up order → Finds Garmin Watch (Product #21)
-                   → Checks return policy → Sports: 45-day window ✓
-                   → Calculates refund → $449.99 (0% restocking fee)
-                   → "Great news! Your Garmin Forerunner 265 is eligible..."
-```
-
-Every response is **validated through 3 guardrail layers** — prompt injection detection, PII redaction, and policy compliance checks — before reaching the customer.
 
 <br />
 
-## 🎯 The Agents
+<!-- EXPERIENCE TIMELINE -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anim/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="28" /> &nbsp;Experience
+
+```
+ 2025          2024          2023          2022          2021
+  │             │             │             │             │
+  ▼             ▼             ▼             ▼             ▼
+┌─────────────────────────┐ ┌───┐ ┌───────────────────────┐
+│  Software Engineer      │ │ M │ │  Software Engineer     │
+│  Walmart (AI/Agents)    │ │ S │ │  Royal Bank of Canada  │
+│  Sunnyvale, CA          │ │   │ │  TCS — Hyderabad       │
+│                         │ │ A │ │                        │
+│  ◆ Agentic RAG (85%↑)  │ │ S │ │  ◆ Interac e-Transfer  │
+│  ◆ 30+ teams onboarded │ │ U │ │  ◆ Fraud detection(20%)│
+│  ◆ Figma → Test Cases   │ │   │ │  ◆ OAuth2/JWT (5M+)   │
+│  ◆ Autonomous Agents    │ │ 4 │ │  ◆ Kafka + Redis       │
+│  ◆ Cross-platform iOS/  │ │ . │ │  ◆ Spring Boot APIs    │
+│    Android Appium       │ │ 0 │ │  ◆ Millions of daily   │
+│  ◆ CI/CD (3x faster)   │ │   │ │    transactions        │
+└─────────────────────────┘ └───┘ └───────────────────────┘
+      Jan 2024 – Present    2022     Jun 2021 – Aug 2022
+                             2023
+```
+
+<br />
+
+<!-- WHAT I DO -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anim/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;What I Build
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔀 Router Agent
-**The Brain — Intent Classification**
+### 🧠 AI Agents & RAG Systems
+Enterprise-scale **Agentic RAG** with vector DB partitioning. Natural language → code generation across **10+ frameworks**. Autonomous mobile & web testing agents with **DOM analysis** and **computer vision** navigation. Multi-modal LLM pipelines that convert **Figma designs → automation scripts**.
 
-Analyzes every incoming message and routes to the right specialist. Uses LLM-powered JSON classification with confidence scoring. If confidence < 60%, asks for clarification instead of guessing.
-
-**Handles:** Greetings, goodbyes, ambiguous queries
+**Impact:** 85% accuracy boost · 30+ teams onboarded · 4-6 hrs → 15 min
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔍 Product Specialist
-**Your Personal Shopping Assistant**
+### ⚡ Backend & Distributed Systems
+High-throughput **Java/Spring Boot** APIs and **Flask microservices** powering millions of daily transactions. **Kafka** async pipelines, **Redis** caching, **Elasticsearch** indexing. OAuth2/JWT auth for **5M+ users**. ML-driven fraud detection reducing fraudulent activity by **20%**.
 
-Searches the catalog, compares products side-by-side, and makes recommendations based on what you need. Knows specs, prices, ratings, and stock levels.
-
-**Tools:** `search_products` · `get_product_details` · `compare_products`
+**Impact:** 35% latency reduction · 5M+ users secured · Millions of TPS
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📦 Order Tracker
-**Real-Time Shipment Intelligence**
+### 📱 Mobile & Test Automation
+Unified **iOS + Android** automation with **Appium** — single cross-platform script eliminating duplicate codebases. **15+ high-impact features** automated, saving **100+ hours/quarter**. CI/CD pipelines with **Jenkins** for parallelized regression, cutting bug detection **3x faster**.
 
-Tracks orders across all statuses — from confirmed to delivered. Provides tracking numbers, carrier info, and estimated delivery dates. Can pull up your full order history instantly.
-
-**Tools:** `lookup_order` · `get_order_status` · `get_user_orders`
+**Impact:** 40% less maintenance · 100+ hrs saved/quarter · 2x productivity
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ↩️ Returns Specialist
-**Policy Expert + Refund Calculator**
+### 🤖 Multi-Agent Systems
+Production-grade autonomous agent architectures with **LangGraph/LangChain**. **ReAct pattern** agents that reason, call tools, and collaborate. Triple-layer guardrails (injection detection, PII redaction, policy enforcement). Stress-tested with **1M+ records** at sub-ms latency.
 
-Looks up orders, identifies products, checks return eligibility against category-specific policies, calculates restocking fees, and initiates return requests — all autonomously.
-
-**Tools:** `lookup_order` · `check_return_eligibility` · `initiate_return`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### 🚨 Escalation Handler
-**The Empathy Engine**
-
-Detects frustration, requests for human agents, or multi-domain issues. Generates an empathetic response AND a detailed handoff summary for the human agent — including conversation context, emotional state, and priority level.
+**Impact:** 5 autonomous agents · 11 tools · $0.001/query cost
 
 </td>
 </tr>
@@ -109,89 +122,34 @@ Detects frustration, requests for human agents, or multi-domain issues. Generate
 
 <br />
 
-## 🏗 Architecture
+<!-- FEATURED PROJECTS -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anim/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="28" /> &nbsp;Featured Projects
 
-```
-                              ┌─────────────────┐
-                              │   Customer Chat  │
-                              │   (Next.js 16)   │
-                              └────────┬─────────┘
-                                       │
-                                       ▼
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│   ┌──────────────┐         LANGGRAPH ORCHESTRATOR                    │
-│   │    INPUT      │                                                   │
-│   │  GUARDRAIL    │    ┌──────────────────────────────┐              │
-│   │               │    │                              │              │
-│   │ ▸ Injection   │───▶│      🧠 ROUTER AGENT         │              │
-│   │ ▸ Sanitize    │    │      Intent Classification   │              │
-│   │ ▸ Length      │    │      Confidence Scoring       │              │
-│   │               │    └──────────┬───────────────────┘              │
-│   └──────────────┘               │                                   │
-│                        ┌─────────┼─────────┬───────────┐            │
-│                        ▼         ▼         ▼           ▼            │
-│                    ┌───────┐ ┌───────┐ ┌───────┐ ┌──────────┐      │
-│                    │  🔍   │ │  📦   │ │  ↩️   │ │   🚨     │      │
-│                    │Product│ │ Order │ │Return │ │Escalation│      │
-│                    │Agent  │ │ Agent │ │Agent  │ │  Agent   │      │
-│                    └───┬───┘ └───┬───┘ └───┬───┘ └──────────┘      │
-│                        │         │         │                         │
-│                        ▼         ▼         ▼                         │
-│                    ┌─────────────────────────────┐                   │
-│                    │    🛠  TOOL EXECUTION        │                   │
-│                    │    SQLite │ Products │ Orders │                  │
-│                    └─────────────────────────────┘                   │
-│                                       │                              │
-│   ┌──────────────┐                    │                              │
-│   │    OUTPUT     │◀───────────────────┘                              │
-│   │  GUARDRAIL    │                                                   │
-│   │               │                                                   │
-│   │ ▸ PII Redact  │                                                   │
-│   │ ▸ Policy OK   │                                                   │
-│   │ ▸ No Leaks    │                                                   │
-│   └──────────────┘                                                   │
-│                                                                      │
-│   FastAPI Backend                                                    │
-└──────────────────────────────────────────────────────────────────────┘
-```
-
-<br />
-
-## 🛡 Triple-Layer Safety
-
-Every single message passes through **3 guardrail layers** before reaching the customer:
+<a href="https://github.com/Vishnuvemula99/agentic-customer-care">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishnuvemula99&repo=agentic-customer-care&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td>
 
-**🔒 Layer 1: Input**
+### 🤖 Agentic Customer Care AI
 
-Prompt injection detection
-12 attack pattern signatures
-HTML stripping & sanitization
-2,000 char limit enforcement
+A production-grade **multi-agent AI system** where 5 specialized agents autonomously handle customer inquiries — from product search to returns processing.
 
-</td>
-<td align="center" width="33%">
+```
+Customer: "Return the Garmin watch from ORD-2025-0889745"
 
-**🔍 Layer 2: Output**
+🧠 Think  → "Need to find the order first"
+🛠 Act    → lookup_order("ORD-2025-0889745")
+👁 Observe → Found: Garmin Forerunner 265 ($449.99)
+🧠 Think  → "Check return eligibility"
+🛠 Act    → check_return_eligibility(order, product_id=21)
+👁 Observe → Eligible! Sports: 45-day window, 0% fee
+💬 Reply  → "Great news! Your refund of $449.99..."
+```
 
-Auto-redacts credit cards
-Auto-redacts SSNs & phone numbers
-Blocks false delivery promises
-Catches competitor mentions
-
-</td>
-<td align="center" width="33%">
-
-**⚖️ Layer 3: Policy**
-
-Return window enforcement
-Restocking fee calculations
-VIP benefit application
-Category-specific rules
+`LangGraph` `GPT-4o` `FastAPI` `Next.js 16` `React 19` `SQLAlchemy` `ReAct Agents`
 
 </td>
 </tr>
@@ -199,318 +157,128 @@ Category-specific rules
 
 <br />
 
-## 🧪 Try It
-
-Drop these into the chat and watch the agents work:
-
-<table>
-<tr>
-<td>💬</td>
-<td><strong>"What wireless headphones do you have?"</strong></td>
-<td>→ Product Specialist searches catalog, shows ratings & prices</td>
-</tr>
-<tr>
-<td>💬</td>
-<td><strong>"Compare Sony WH-1000XM5 with AirPods Pro"</strong></td>
-<td>→ Side-by-side comparison with specs</td>
-</tr>
-<tr>
-<td>💬</td>
-<td><strong>"Show me my orders"</strong></td>
-<td>→ Order Tracker pulls full order history</td>
-</tr>
-<tr>
-<td>💬</td>
-<td><strong>"Where is order ORD-2025-0534909?"</strong></td>
-<td>→ Tracking number, carrier, estimated delivery</td>
-</tr>
-<tr>
-<td>💬</td>
-<td><strong>"I want to return the Garmin Watch from ORD-2025-0889745"</strong></td>
-<td>→ Looks up order → checks eligibility → calculates refund</td>
-</tr>
-<tr>
-<td>💬</td>
-<td><strong>"I need to speak to a manager"</strong></td>
-<td>→ Empathetic response + handoff summary generated</td>
-</tr>
-</table>
-
-<br />
-
-## ⚡ Quick Start
-
-### Prerequisites
-- Python 3.11+ · Node.js 18+ · [OpenAI API key](https://platform.openai.com/api-keys)
-
-### 1. Backend
-
-```bash
-cd backend
-python -m venv venv && source venv/bin/activate
-pip install -r requirements.txt
-
-cp .env.example .env
-# Add your OPENAI_API_KEY to .env
-
-uvicorn app.main:app --reload --port 8000
-# ✓ Database auto-seeds with demo data on first startup
-```
-
-### 2. Frontend
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
-### 3. Open → http://localhost:3000
-
-<br />
-
-## 🧰 Tech Stack
-
-<table>
-<tr>
-<td align="center" width="25%"><strong>🧠 AI Layer</strong></td>
-<td align="center" width="25%"><strong>⚙️ Backend</strong></td>
-<td align="center" width="25%"><strong>🎨 Frontend</strong></td>
-<td align="center" width="25%"><strong>🗄 Data</strong></td>
-</tr>
-<tr>
-<td>
-
-LangGraph
-LangChain
-OpenAI GPT-4o
-Anthropic Claude
-ReAct Agents
-
-</td>
-<td>
-
-Python 3.11
-FastAPI
-Pydantic
-SSE Streaming
-Docker
-
-</td>
-<td>
-
-Next.js 16
-React 19
-TypeScript 5
-Tailwind CSS 4
-React Compiler
-
-</td>
-<td>
-
-SQLAlchemy
-SQLite
-6 ORM Models
-25 Products
-1M+ Orders tested
-
-</td>
-</tr>
-</table>
-
-<br />
-
-## 📂 Project Structure
-
-```
-agentic-customer-care/
-│
-├── backend/
-│   └── app/
-│       ├── agents/          ← 🧠 5 AI agents + LangGraph orchestrator
-│       │   ├── graph.py          StateGraph wiring & routing
-│       │   ├── router_agent.py   Intent classification
-│       │   ├── product_agent.py  Product specialist (ReAct)
-│       │   ├── order_agent.py    Order tracking (ReAct)
-│       │   ├── returns_agent.py  Returns & refunds (ReAct)
-│       │   └── escalation_agent.py  Human handoff
-│       │
-│       ├── tools/           ← 🛠 11 LangChain tools (DB-backed)
-│       ├── guardrails/      ← 🛡 Input validation, output filtering, policy engine
-│       ├── services/        ← 📊 Business logic (orders, products, returns)
-│       ├── llm/             ← 🔌 Provider abstraction + auto-fallback
-│       ├── memory/          ← 💾 Multi-turn conversation persistence
-│       └── db/              ← 🗄 Models, migrations, seed data
-│
-├── frontend/
-│   └── src/
-│       ├── components/chat/ ← 💬 Chat UI, agent badges, markdown renderer
-│       ├── hooks/           ← 🪝 useChat state management
-│       └── lib/             ← 📡 API client, types, utilities
-│
-├── render.yaml              ← 🚀 One-click Render deployment
-├── DEPLOYMENT.md            ← 📋 Step-by-step deployment guide
-└── README.md
-```
-
-<br />
-
-## 🔄 How Agent Reasoning Works
-
-This isn't a simple chatbot. Each specialist uses the **ReAct (Reason + Act) pattern** — the agent thinks, decides which tool to call, observes the result, and iterates until it has a complete answer.
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│  Customer: "Can I return the MacBook from ORD-2025-0335810?"   │
-│                                                                 │
-│  ┌─────────────────────────────────────────────────────────┐   │
-│  │  🧠 Think                                                │   │
-│  │  "Customer wants to return a MacBook. I need to find     │   │
-│  │   the order first to get the product ID."                │   │
-│  └─────────────────────────────────┬───────────────────────┘   │
-│                                    ▼                            │
-│  ┌─────────────────────────────────────────────────────────┐   │
-│  │  🛠 Act: lookup_order("ORD-2025-0335810")                │   │
-│  └─────────────────────────────────┬───────────────────────┘   │
-│                                    ▼                            │
-│  ┌─────────────────────────────────────────────────────────┐   │
-│  │  👁 Observe                                               │   │
-│  │  "Delivered | MacBook Air M3 (ID:2) $1,299                │   │
-│  │   + Breville Espresso Machine (ID:16) $699.95"            │   │
-│  └─────────────────────────────────┬───────────────────────┘   │
-│                                    ▼                            │
-│  ┌─────────────────────────────────────────────────────────┐   │
-│  │  🧠 Think                                                │   │
-│  │  "MacBook = Product ID 2. Let me check eligibility."     │   │
-│  └─────────────────────────────────┬───────────────────────┘   │
-│                                    ▼                            │
-│  ┌─────────────────────────────────────────────────────────┐   │
-│  │  🛠 Act: check_return_eligibility("ORD-2025-0335810", 2) │   │
-│  └─────────────────────────────────┬───────────────────────┘   │
-│                                    ▼                            │
-│  ┌─────────────────────────────────────────────────────────┐   │
-│  │  👁 Observe                                               │   │
-│  │  "ELIGIBLE | Electronics | 30-day window (18 left)        │   │
-│  │   Restocking fee: 15% ($194.85) | Refund: $1,104.15"     │   │
-│  └─────────────────────────────────┬───────────────────────┘   │
-│                                    ▼                            │
-│  ┌─────────────────────────────────────────────────────────┐   │
-│  │  💬 Respond                                               │   │
-│  │  "Your MacBook Air M3 is eligible for return! You have   │   │
-│  │   18 days remaining. There's a 15% restocking fee of     │   │
-│  │   $194.85, so your refund would be $1,104.15 to your     │   │
-│  │   original payment method..."                             │   │
-│  └─────────────────────────────────────────────────────────┘   │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-<br />
-
-## 📊 Return Policy Engine
-
-The system enforces real business rules — not hardcoded responses:
-
-| Category | Window | Fee | Refund To | Conditions |
-|:--------:|:------:|:---:|:---------:|:----------:|
-| 💻 **Electronics** | 30 days | 15% | Original payment | Original packaging + accessories |
-| 👕 **Clothing** | 60 days | 0% | Original payment | Tags attached, unworn |
-| 🏠 **Home & Kitchen** | 30 days | 10% | Original payment | Unused, original packaging |
-| ⚽ **Sports** | 45 days | 0% | Store credit | Unused, original packaging |
-| 📚 **Books** | 14 days | 0% | Original payment | No writing, undamaged |
-
-> 👑 **VIP members** get restocking fees waived on all categories
-
-<br />
-
-## 📈 Stress Tested at Scale
-
-The system has been benchmarked with **1 million orders** across 1,000 users:
-
-```
-┌────────────────────────────┬───────────┐
-│ Metric                     │ Result    │
-├────────────────────────────┼───────────┤
-│ Single order lookup        │ < 1ms     │
-│ User's orders (~1,000)     │ ~39ms     │
-│ Order status check         │ < 1ms     │
-│ Database size (1M orders)  │ 446 MB    │
-│ Seed time (1M orders)      │ ~2 min    │
-└────────────────────────────┴───────────┘
-```
-
-<br />
-
-## 🚀 Deploy for Free
-
-Full deployment guide: **[DEPLOYMENT.md](./DEPLOYMENT.md)**
-
-| Service | What | Cost |
-|:-------:|:----:|:----:|
-| **Vercel** | Frontend (Next.js) | $0 |
-| **Render** | Backend (FastAPI + Docker) | $0 |
-| **OpenAI** | LLM (GPT-4o-mini) | ~$0.001/query |
-
-```
-User → Vercel (CDN + SSR)
-         │
-         │  /api/* proxy
-         ▼
-       Render (Docker)
-         ├── FastAPI + LangGraph
-         ├── SQLite (auto-seeded)
-         └── OpenAI GPT-4o-mini
-```
-
-<br />
-
-## 🔌 LLM Configuration
-
-The system supports **multiple providers** with automatic fallback:
-
-```env
-# Option 1: OpenAI (Recommended)
-OPENAI_API_KEY=sk-...
-PRIMARY_LLM=gpt-4o-mini
-FALLBACK_LLM=gpt-4o-mini
-
-# Option 2: Anthropic
-ANTHROPIC_API_KEY=sk-ant-...
-PRIMARY_LLM=claude-sonnet-4-20250514
-
-# Option 3: Both (auto-fallback)
-OPENAI_API_KEY=sk-...
-ANTHROPIC_API_KEY=sk-ant-...
-# If primary fails → seamlessly switches to fallback
-```
-
-<br />
-
-## 📡 API
-
-```
-POST /api/chat/message     Send a message, get a response
-POST /api/chat/stream      Send a message, get SSE stream
-GET  /api/conversations/:id List conversations
-GET  /api/health            Health check
-```
-
-**Example:**
-```bash
-curl -X POST http://localhost:8000/api/chat/message \
-  -H "Content-Type: application/json" \
-  -d '{"message": "Show me my orders", "user_id": 1}'
-```
-
-<br />
-
----
+<!-- TECH STACK -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anim/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28" /> &nbsp;Tech Stack
 
 <div align="center">
 
-### Built with 🧠 LangGraph · ⚡ FastAPI · ⚛️ Next.js
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**If you found this useful, give it a ⭐**
+#### AI / ML & Agents
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D4A574?style=for-the-badge&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF4500?style=for-the-badge&logoColor=white)
+
+#### Backend & Data
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+#### Testing & Automation
+![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Tesseract](https://img.shields.io/badge/Tesseract_OCR-3DDC84?style=for-the-badge&logoColor=white)
+![Sauce Labs](https://img.shields.io/badge/Sauce_Labs-E2231A?style=for-the-badge&logo=saucelabs&logoColor=white)
+
+#### DevOps & Cloud
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+#### Monitoring
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+
+</div>
+
+<br />
+
+<!-- IMPACT NUMBERS -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anim/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> &nbsp;Impact by Numbers
+
+<div align="center">
+
+```
+ ┌──────────────────────────────────────────────────────────────────┐
+ │                                                                  │
+ │   85%↑  Test accuracy with Agentic RAG + vector DB partitioning │
+ │   30+   Development teams onboarded on AI test generation       │
+ │   20x   Faster script creation (4-6 hrs → 15-20 min)           │
+ │   35%   Latency reduction on Interac e-Transfer backend         │
+ │   20%   Fraudulent activity reduced with ML validation          │
+ │   5M+   Users secured with OAuth2/JWT auth system               │
+ │   100+  QA hours saved per quarter via automation               │
+ │   3x    Faster bug detection with CI/CD pipelines               │
+ │   40%   Maintenance reduction with cross-platform Appium        │
+ │   2x    Productivity boost with autonomous testing agents       │
+ │                                                                  │
+ └──────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+
+<!-- EDUCATION -->
+<div align="center">
+
+## 🎓 Education
+
+**Arizona State University** — MS in Information Systems (Data Analytics)
+<br />
+GPA: **4.0 / 4.0** · Aug 2022 – Aug 2023
+
+</div>
+
+<br />
+
+<!-- PHILOSOPHY -->
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   "I don't just build software — I build systems that think,    ║
+║    reason, and automate what humans shouldn't have to."          ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br />
+
+<!-- CONNECT -->
+<div align="center">
+
+### Let's Connect
+
+I'm always open to collaborating on **AI/ML projects**, **multi-agent systems**, **autonomous testing**, or anything at the intersection of **AI and software engineering**.
+
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhu)
+[![Email](https://img.shields.io/badge/Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhuvishnuvemula@gmail.com)
+
+<br />
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
 
 </div>
