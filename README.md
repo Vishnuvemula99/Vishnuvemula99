@@ -66,7 +66,7 @@ fun_fact: "I built a customer care system where 5 AI agents
 - 🧠 Built **Agentic RAG** with vector DB partitioning — **85% accuracy boost**
 - 👥 Onboarded **30+ teams** on AI test generation across **10+ frameworks**
 - 🎨 Pioneered **Figma → test case** pipeline with multi-modal LLMs
-- 🤖 Built autonomous agents with **DOM analysis** & **computer vision**
+- 🤖 Built autonomous Agentic agents with **DOM analysis** & **computer vision** 
 - ⚙️ Engineered **Flask microservices** + **Milvus** + **Azure Blob**
 
 **Mobile & Automation (2024)**
